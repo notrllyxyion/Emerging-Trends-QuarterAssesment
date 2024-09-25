@@ -12,6 +12,14 @@ EditorBuildSettings:
     path: Assets/Scenes/MENUS/Menu_Characters.unity
     guid: fed3542ef446d9e418e08850af9ef6ef
   - enabled: 1
+<<<<<<< Updated upstream
     path: Assets/Scenes/MENUS/Menu_Vault.unity
     guid: af3859b2bb91a484890ec1c903612a22
+=======
+    path: Assets/Scenes/MENUS/Menu_Games.unity
+    guid: d1415e90bda9cb34c9671e99cf66e0b6
+  - enabled: 1
+    path: Assets/Scenes/MENUS/Menu_AboutUs.unity
+    guid: a54d08b9716880b45837e2cfa2590319
+>>>>>>> Stashed changes
   m_configObjects: {}
