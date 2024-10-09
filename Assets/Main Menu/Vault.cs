@@ -1,12 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class Vault : MonoBehaviour
 {
-    public void GoToVaultMenu()
+    // Start is called before the first frame update
+    void Start()
     {
-        SceneManager.LoadScene("Menu_Vault");
+        
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
     }
 }
